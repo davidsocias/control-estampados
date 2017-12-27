@@ -1,0 +1,1 @@
+import '../client/startup/accounts-config.js';
